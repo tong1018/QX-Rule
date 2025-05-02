@@ -5,4 +5,8 @@ DOMAIN-SUFFIX,binancezh.cc
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,poolbinance.com
 
+#bybit
 DOMAIN-SUFFIX,bybit.com
+
+#infini卡
+DOMAIN-SUFFIX,infini.money
