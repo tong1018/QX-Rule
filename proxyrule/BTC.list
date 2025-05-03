@@ -9,10 +9,12 @@ DOMAIN-SUFFIX,mokexapp.io
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,api.saasexch.io
 
 #bybit
 DOMAIN-SUFFIX,bybit.com
 
 #infini卡
 DOMAIN-SUFFIX,infini.money
+
 
