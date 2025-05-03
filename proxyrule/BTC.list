@@ -5,10 +5,10 @@ DOMAIN-SUFFIX,binancezh.cc
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,poolbinance.com
 
-DOMAIN-SUFFIX, mokexapp.io
-DOMAIN-SUFFIX, bntrace.com
-DOMAIN-SUFFIX, binancecnt.com
-DOMAIN-SUFFIX, bnbstatic.com
+DOMAIN-SUFFIX,mokexapp.io
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,bnbstatic.com
 
 #bybit
 DOMAIN-SUFFIX,bybit.com
@@ -16,7 +16,3 @@ DOMAIN-SUFFIX,bybit.com
 #infini卡
 DOMAIN-SUFFIX,infini.money
 
-DOMAIN-SUFFIX, mokexapp.io
-DOMAIN-SUFFIX, bntrace.com
-DOMAIN-SUFFIX, binancecnt.com
-DOMAIN-SUFFIX, bnbstatic.com
